@@ -40,3 +40,7 @@ end
 p find_pair_again([8,7,2,5,3], 10)
 
 # this is O(nlogn)
+
+
+# Link to questions and solution in java
+# http://www.techiedelight.com/find-pair-with-given-sum-array/
